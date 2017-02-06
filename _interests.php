@@ -28,9 +28,7 @@
         
       </div><!-- /.row -->
 
-
-      
-
+      <div class="divided-60"></div>
 
       <div class="row">
         <div class="col-sm-12">

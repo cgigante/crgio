@@ -29,19 +29,21 @@
           </p>
           
           <div class="shmap-links">
-            <h4 class="text-center"><strong>Shmap is now available on iOS!</strong></h4>
+            <div class="row">
+              <div class="col-sm-6">
+                <h4 class="text-center"><strong>Shmap is available on iOS:</strong></h4>
             
-            <a href="https://itunes.apple.com/us/app/shmap/id993757607" target="_blank">
-              <img id="app-store-badge" class="img-responsive app-badge" src="images/app_store_badge.png" alt="Download Shmap on iOS" title="Download Shmap on iOS" />
-            </a>
-
-            <p></p>
-            <p class="text-center"><a href="http://www.ideally.net" target="_blank">ideally.net</a></p>
-            
-            <p class="text-center"><a href="http://www.shmap.me" target="_blank">Shmap.me</a></p>
-
+                <a href="https://itunes.apple.com/us/app/shmap/id993757607" target="_blank">
+                  <img id="app-store-badge" class="img-responsive app-badge" src="images/app_store_badge.png" alt="Download Shmap on iOS" title="Download Shmap on iOS" />
+                </a>
+              </div>
+              <div class="col-sm-6">
+                <h4 class="text-center"><strong>Find us on the web:</strong></h4>
+                <p class="text-center"><a href="http://www.ideally.net" target="_blank">ideally.net</a></p>
+                <p class="text-center"><a href="http://www.shmap.me" target="_blank">Shmap.me</a></p>
+              </div>
+            </div>
           </div>
-
         </div>
 
         <div class="col-sm-6">
@@ -54,19 +56,19 @@
 
 <!-- end Ideally -->
 
-      
+      <div class="divided-60"></div>
 
 <!-- Begin Web Development -->
       <section id="webDev" class="row featurette">
 
-        <div class="col-sm-6">
+        <div class="col-sm-4">
           <h2 class="featurette-heading">Web Development:</h2>
           <h3 class="featurette-heading"><span class="text-muted">HTML5, CSS3, PHP, MySQL, JavaScript, etc.</span></h3>
           <p>I have a solid foundation in a variety of languages and earned a <em>Certificate in Web Development</em> from <strong>New York University</strong>. Pay me a visit on <a href="https://github.com/cgigante" target="_blank">GitHub</a> to review my code.</p>
           <p>Live sites which demonstrate some of my skills include the one you're looking at along with those presented here.</p>
         </div>
 
-        <div class="col-sm-6">
+        <div class="col-sm-8">
           <ul class="img-list">
             <li>
               <a href="http://shmap.me/" target="_blank">
@@ -102,20 +104,14 @@
                 I designed and put together this Shopify storefront for shaving supply company, "Oliver's Skincare."</span></span>
               </a>
             </li>
-            <!-- <li>
-              <a href="http://tattooshop.crg.io/" target="_blank">
-                <img class="img-responsive img-web-dev" src="images/work/webdev/tattoo.jpg"/>
-                <span class="text-content"><span>Tattoo Shop Website
+            <li>
+              <a href="http://christchurchministries.faith" target="_blank">
+                <img class="img-responsive img-web-dev" src="images/work/webdev/church.jpg"/>
+                <span class="text-content"><span>Christ Church Ministries
                 <br><br>
-                I redesigned a website for a local Brooklyn tattoo shop. Here is what I pitched.</span></span>
+                I built this custom site for a church congregation in Baltimore.</span></span>
               </a>
-            </li> -->
-            <!-- <li>
-              <a href="http://dumbo.space" target="_blank">
-                <img class="img-responsive img-web-dev" src="images/work/webdev/dumbo.jpg"/>
-                <span class="text-content"><span>dumbo.space<br>I created this site to help a business partner rent out the roof deck at his office. Copywriting, coding and most of the photography is my own.</span></span>
-              </a>
-            </li>  -->
+            </li>
           </ul>
 
 
@@ -127,10 +123,10 @@
 
 <!-- End Web Development -->
 
-      
+<div class="divided-60"></div>
 
 <!-- Begin in8iD -->
-      <section id="in8" class="row featurette">
+      <section id="in8" class="row featurette spacer60">
         <div class="col-sm-6">
           <h2 class="featurette-heading">Mobile App Development:</h2>
           <h3 class="featurette-heading"><span class="text-muted"> in8 Mobile | Audio and Image Recognition</span></h3>
@@ -258,9 +254,7 @@
       </section>
 <!-- End in8iD -->
 
-
-      
-
+<div class="divided-60"></div>
 
 <!-- Begin Content Production -->
       <section id="contentProduction" class="row featurette">

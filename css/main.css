@@ -61,7 +61,40 @@ div.div-height-75 {
 	height: 75px;
 }
 
+/********dividers*********/
+.divided-10{
+    height: 10px;
+    width:100%;
+}
+.divided-20{
+    height: 20px;
+    width:100%;
+}
+.divided-30{
+    height: 30px;
+    width:100%;
+}
+.divided-40{
+    height: 40px;
+    width:100%;
+}
 
+.divided-50{
+    height: 50px;
+    width:100%;
+}
+.divided-60{
+    height: 60px;
+    width:100%;
+}
+.divided-70{
+    height: 70px;
+    width:100%;
+}
+.divided-80{
+    height: 80px;
+    width:100%;
+}
 
 /****************************************** 
 Navigation

@@ -36,8 +36,11 @@
             <h1>Experience<br><span class="text-muted" style="font-size:.7em;">[at a glance]</span></h1>
             <p><a class="btn btn-default" href="<?php echo $resume ?>" download role="button">Download Full Resume</a></p>
             </br>
+            <h4>Freelance</h4>
+            <p class="job-title">Web Developer <span class="job-dates">(2014 – Present)</span></p>
+            </br>
             <h4>ideally, LLC</h4>
-            <p class="job-title">Director of Product Management <span class="job-dates">(2013 – Present)</span></p>
+            <p class="job-title">Director of Product Development <span class="job-dates">(2013 – 2016)</span></p>
             </br>
             <h4>in8 iD, a division of NantMobile</h4>
             <p class="job-title">Manager, Content &amp; Promotions <span class="job-dates">(2011 – 2013)</span></p>
