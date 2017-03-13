@@ -87,6 +87,15 @@
               </a>
             </li>
 
+			<li>
+              <a href="http://blackbuydemand.com" target="_blank">
+                <img class="img-responsive img-web-dev" src="images/work/webdev/bbd.png"/>
+                <span class="text-content"><span>blackbuydemand.com
+                <br><br>
+                Online classifieds site I built using the YClas backend.</span></span>
+              </a>
+            </li>
+
             <li>
               <a href="http://d-daysthefilm.com/" target="_blank">
                 <img class="img-responsive img-web-dev" src="images/work/webdev/ddays.jpg"/>

@@ -1,6 +1,4 @@
 Charles Gigante
-20 Jay St. Suite 1100A
-Brooklyn, NY 11201
 347-841-4302
 charlie@crg.io
 http://www.crg.io
@@ -8,16 +6,13 @@ http://www.crg.io
 
 Career Summary
 
-Strategic, results-oriented digital media professional with proven track record of managing complex projects while delivering high quality results on time and within budget. Consummate professional with superior collaboration skills and a strong dedication to client service. Creative troubleshooter; consistently resolves the most complex challenges to deliver satisfied clients. Outstanding communicator with sophisticated interpersonal skills; easily interacts with clients, colleagues, staff, and executive teams. Possesses deep entertainment industry knowledge, a vast professional network, and is proficient in:-	Website Development
--	Mobile Product Development
--	Analytics & Reporting-	Internet & Email Marketing
--	Adobe Photoshop & InDesign
--	Management & Team Building-	Process Streamlining
--	Product & Content Development
--	Product Functionality
+Strategic, results-oriented digital media professional with proven track record of managing complex projects while delivering high-quality results on time and within budget. Consummate professional with superior collaboration skills and a strong dedication to client service. Consistently resolves complex challenges to deliver satisfied clients.
 Professional Experience
 
-ideally, LLC | Shmap Mobile MessagingDirector of Product Development2013 – PresentNew York CityCurrently leading the ongoing strategy, development and roadmap for Ideally's flagship iOS application, Shmap (an app that uses GPS technology to put location at the center of the messaging experience). Various responsibilities include product requirements documentation, user stories, bug tracking via Jira, product roadmap, overall company strategy & vision, UI/UX, social media marketing and web development.
+FREELANCE 2014 - PRESENTWebsite Developer
+
+
+ideally, LLC | Shmap Mobile MessagingDirector of Product Development2013 – 2016New York CityCo-founder of Ideally and product manager of Shmap – an iOS application that harnesses GPS technology to put location at the center of the social messaging experience. Responsibilities include product requirements documentation, user stories, product roadmap, project management, web development, strategy, UI/UX/design, social media marketing and more. Management tools include Jira, Slack, Cloudforge, etc.
 
 
 in8 iD, a division of Nantworks
