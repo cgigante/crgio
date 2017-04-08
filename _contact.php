@@ -5,8 +5,8 @@
     $message = $_POST['message'];
     $human = intval($_POST['human']);
     $from = 'crg.io Contact Form'; 
-    $to = 'charlie@crg.io'; 
-    $subject = 'Message from crg.io ';
+    $to = 'charlie.gigante@gmail.com'; 
+    $subject = 'Message from crg.io';
     
     $body ="From: $name\n E-Mail: $email\n Message:\n $message";
 

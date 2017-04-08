@@ -19,7 +19,7 @@
 
               <p class="bio">I was recently awarded a <strong>Certificate in Web Development from New York University</strong> and possess a variety of skills in both client and server-side programming. I have experience in <em>HTML5, CSS3, JavaScript/JQuery, PHP</em> and <em>MySQL</em>. View some of my development projects <a href="#webDev">here</a>.</p>
 
-              <p class="bio">When I'm not up to my ears in all things digital, I produce original music, DJ, and am a photographer. I live in New York City with my dog, Izzy (a.k.a. Isabel). For professional inquiries or to simply say hello, <a href="#contact-section">drop me an email</a>.</p>
+              <p class="bio">When I'm not up to my ears in all things digital, I produce original music, DJ, and am a photographer. I live in Los Angeles with my dog, Izzy (a.k.a. Isabel). For professional inquiries or to simply say hello, <a href="#contact-section">drop me an email</a>.</p>
               <p class="bio">Thank you for visiting.</p>
               <br>
               <address style="font-size:1.75em;">
