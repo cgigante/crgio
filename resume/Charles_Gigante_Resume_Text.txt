@@ -6,39 +6,43 @@ http://www.crg.io
 
 Career Summary
 
-Strategic, results-oriented digital media professional with proven track record of managing complex projects while delivering high-quality results on time and within budget. Consummate professional with superior collaboration skills and a strong dedication to client service. Consistently resolves complex challenges to deliver satisfied clients.
+Strategic, results-oriented digital media professional and product manager with proven track record of managing complex projects while delivering high-quality results on time and within budget. Consummate professional with superior collaboration skills, creative vision and a strong dedication to customer service. Consistently resolves complex challenges to deliver satisfied clients.
 Professional Experience
 
-FREELANCE 2014 - PRESENTWebsite Developer
+Solid Commerce
+solidcommerce.com | channelsmanager.com
+Product Manager 
+2017 – present
+Defined product requirements, set engineering priorities, wrote user stories, improved UI/UX and managed feature development for Channels Manager, Solid Commerce’s multichannel inventory e-commerce platform and Marketplace Shipping, an orders and shipping system built exclusively for UPS. Communicated across teams and directly with customers through development sprints to ensure business needs were understood by stakeholders and deliverable dates were met. Tools: Jira, Confluence, Gliffy, Teamwork, etc.
 
 
-ideally, LLC | Shmap Mobile MessagingDirector of Product Development2013 – 2016New York CityCo-founder of Ideally and product manager of Shmap – an iOS application that harnesses GPS technology to put location at the center of the social messaging experience. Responsibilities include product requirements documentation, user stories, product roadmap, project management, web development, strategy, UI/UX/design, social media marketing and more. Management tools include Jira, Slack, Cloudforge, etc.
+Freelance
+Website Developer
+2014 - 2017
+Portfolio: crg.io
 
+ideally, LLC | Shmap Mobile Messaging
+ideally.net | shmap.me | appstore.com/shmapDirector of Product Development2013 – 2016Co-founder of Ideally and product manager of Shmap – an iOS application that harnesses GPS technology to put location at the center of the social messaging experience. Responsibilities include product requirements documentation, user stories, product roadmap, project management, web development, strategy, UI/UX/design, social media marketing and more. Management tools include Jira, Slack, Cloudforge, etc.
 
 in8 iD, a division of Nantworks
+http://nantworks.com/
 Manager, Content & Promotions
 2011 - 2013
-New York City
-
-Managed the concepts, creative design, technical implementation and roadmap for all promotions and sweepstakes within in8 iD's two image/music recognition applications: iD and Verizon iD. Supported the business development team by designing campaign pitch decks and programming in-app demos for potential partners. Worked closely with the lead Product Manager on developing a comprehensive roadmap of application features, reporting and analytics enhancements, etc.* Conceived, programmed and managed campaigns in all in8 applications resulting in over 75,000 sweepstakes participants along with hundreds of thousands of app transactions* Served as project manager, visual designer and copywriter on campaigns for accounts including Verizon, IMG, Macy's, Bank of America, AT&T, BMI and Sony Music Entertainment* Curator and CMS programmer of the “Lens” app category - a custom list of audio and visual recognition targets which links users to related content including mobile apps, movie trailers, memes, music, news, pop culture miscellany, online publications and more* Designed, composed and managed a weekly email newsletter to the tens of thousands of users who participated in contests and promotions across the in8 iD applications* Managed company social media outlets including Facebook, Twitter and InstagramKey Accomplishments* Co-authored the product specs for Verizon iD and iD, apps with over 500,000 unique recurring users* Increased unique monthly sweepstakes entrants from an avg. of 400 to over 5,000 per campaign* Conceived and executed an on-site image activation campaign for IMG's US Open of Surfing* Developed and executed a high-profile Verizon campaign for Super Bowl XLVI
+Managed the concepts, creative design, technical implementation and roadmap for all promotions and sweepstakes within in8 iD's two image/music recognition applications: iD and Verizon iD. Supported the business development team by designing campaign pitch decks and programming in-app demos for potential partners. Worked closely with the lead Product Manager on developing a comprehensive roadmap of application features, reporting and analytics enhancements, etc.* Conceived, programmed and managed campaigns in all in8 applications resulting in over 75,000 sweepstakes participants along with hundreds of thousands of app transactions* Served as project manager, visual designer and copywriter on campaigns for accounts including Verizon, IMG, Macy's, Bank of America, AT&T, BMI and Sony Music Entertainment* Curator and CMS programmer of the “Lens” app category - a custom list of audio and visual recognition targets which links users to related content including mobile apps, movie trailers, memes, music, news, pop culture miscellany, online publications and more* Designed, composed and managed a weekly email newsletter to the tens of thousands of users who participated in contests and promotions across the in8 iD applications* Managed company social media outlets including Facebook, Twitter and InstagramKey Accomplishments:* Co-authored the product specs for Verizon iD and iD, apps with over 500,000 unique recurring users* Increased unique monthly sweepstakes entrants from an avg. of 400 to over 5,000 per campaign* Conceived and executed an on-site image activation campaign for IMG's US Open of Surfing* Developed and executed a high-profile Verizon campaign for Super Bowl XLVI
 
 
 Universal Music Group Distribution
 Senior Producer, Mobile
 2007 - 2010
-Los Angeles
-
 * Directed an internal staff of five, overseeing all mobile content production for UMG's vast label roster
 * Worked directly with label marketing leads to fulfill their mobile production priorities and creative needs
 * Ensured all merchandising and marketing commitments were met on time and to the expectations of business partners by collaborating closely with UMG's Account and Marketing executives
 * Grew year-over-year production volume output 75% from 2007 to 2008 by streamlining internal staff processes and instituting improved customer service standards for partner labels
 * Proactively drove selection and production of back catalog titles, resulting in tens of thousands of additional units sold, thus delivering a well-received positive ROI for the company
 
-
 Warner Bros. Advanced Digital Services
 Lead of Wireless Personalization
 2005 - 2007
-Los Angeles
 
 * Managed mobile content production & deployment for Warner's Theatrical, Television and Brands divisions
 * Doubled wallpaper sales on Cingular (AT&T) within six months; grew sales across all properties by working with major carriers to optimize placement of WB content on WAP and web storefronts
@@ -46,42 +50,38 @@ Los Angeles
 * Identified film and television talent, collaborated with film/TV production teams, and coordinated with WB Legal to secure name and likeness rights for talents' use in mobile products
 * Creative lead and mobile production manager for high profile WB properties including Harry Potter, Happy Feet, Superman Returns, Looney Tunes, DC Comics, Friends, Nip/Tuck and more
 
-
 Infospace Mobile
 Manager of Production
 2001 - 2005
-Los Angeles
-
 * Tracked and managed the production of a high volume of licensed materials, ultimately building the then-largest and most diverse catalog of content in the mobile industry
 * Managed work schedules and production priorities of internal and external production teams
 * Directed department's overall creative efforts and collaborated closely with Marketing team to develop compelling promotions on behalf of business partners
 * Increased monthly production output 500% between early 2004 and late 2005
 
-
 Emperor Norton Records
 Distribution Manager
 1999 - 2001
-Los Angeles
 
 
-Assorted Skills
-
-- Mobile App Product Development
-- Website Development & Design: HTML5, CSS3, jQuery, JavaScript, PHP, MySQL, Search Engine Optimization, Responsive Design, etc.
-- Adobe Photoshop
-- Analytics & Reporting
-- Internet & Email Marketing
-- Management & Team Building
-- Process Streamlining
-- User Experience & Interface Design
-- Product Functionality
-- Social Media Management
-- PowerPoint & Keynote
+Skills and Proficiency
+* Web and Mobile App Product Development
+* User stories
+* Product Requirements
+* Wireframing
+* Agile
+* Tools include: Jira, Confluence, Slack, Bugzilla, etc
+* Website Development & Design: HTML5, CSS3, jQuery, JavaScript, PHP, MySQL, Search Engine Optimization, Responsive Design, etc.
+* Adobe Photoshop
+* Analytics & Reporting
+* Internet & Email Marketing
+* Management & Team Building
+* Process Streamlining
+* User Experience & Interface Design
+* Product Functionality
+* Social Media Management
+* PowerPoint & Keynote
 
 
 Education
-
-New York UniversityCertificate in Web Development
-
-University of Southern California
-Bachelor of Science, Music Industry
+* New York University - Certificate in Web Development
+* University of Southern California - Bachelor of Science, Music Industry

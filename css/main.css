@@ -1,9 +1,4 @@
-contact-section/*
-Colors
-Purple: #AB82FF
-Light Grey: #F4F4F4
-Dark Grey: #aaa
-*/
+
 
 div.clear {
 	clear: both;
@@ -14,17 +9,17 @@ body {
 	font-family: 'Special Elite', helvetica, sans-serif; /* This is the font used in all non-paragraph text */
 	/* The following lines of code fix a known Google Chrome issue which occasionally won't render webfonts -  https://codestag.com/fix-google-chrome-web-fonts-issue/  */
 	-webkit-animation-duration: 0.1s;
-  	-webkit-animation-name: fontfix;
-  	-webkit-animation-iteration-count: 1;
-  	-webkit-animation-timing-function: linear;
-  	-webkit-animation-delay: 0.1s;
+	-webkit-animation-name: fontfix;
+	-webkit-animation-iteration-count: 1;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0.1s;
 }
 
 
 /* The following lines of code fix a known Google Chrome issue which occasionally won't render webfonts -  https://codestag.com/fix-google-chrome-web-fonts-issue/  */
 	@-webkit-keyframes fontfix {
-	  from { opacity: 1; }
-	  to { opacity: 1; }
+		from { opacity: 1; }
+		to { opacity: 1; }
 	}
 
 
@@ -34,7 +29,7 @@ p {
 
 /* Links */
 a {
-	color: #AB82FF; /* This sets the color of all links on site */
+	color: #c0504d; /* This sets the color of all links on site */
 	transition: all 0.5s ease;
 }
 
@@ -96,7 +91,7 @@ div.div-height-75 {
     width:100%;
 }
 
-/****************************************** 
+/******************************************
 Navigation
 *******************************************/
 
@@ -116,18 +111,18 @@ Navigation
 	padding: 0;
 }
 
-/* sets navbar link text color */ 
+/* sets navbar link text color */
 .navbar .container .collapse .nav > li > a,
-.navbar .container .collapse .nav > li > ul > li > a { 
+.navbar .container .collapse .nav > li > ul > li > a {
 	color: black;
 	text-align: center;
-} 
+}
 
-	/* set hover and focus to lightgrey */ 
-	.navbar .nav > li > a:focus { 
+	/* set hover and focus to lightgrey */
+	.navbar .nav > li > a:focus {
 		color: black;
 		text-decoration: underline;
-		background-color: #AB82FF;
+		background-color: #c0504d;
 	}
 	/*.navbar .nav > li > a:hover {
 		color: black;
@@ -135,8 +130,8 @@ Navigation
 		background-color: #F4F4F4;
 	}
 */
-.active { 
-	background-color: #AB82FF !important;
+.active {
+	background-color: #c0504d !important;
 	/* this changes the background color of an "active" nav menu item */
 }
 
@@ -152,7 +147,7 @@ Navigation
 
 .navbar-header .navbar-brand:hover,
 .navbar-header .navbar-brand:focus {
-     color: #AAAAAA;
+    color: #AAAAAA;
 }
 
 .icon-bar {
@@ -180,29 +175,28 @@ Carousel
 }
 
 .btn-default {
-	border: 3px solid #AB82FF;
-	background-color: transparent;
+	border: 3px solid #c0504d;
+	background-color: #F4F4F4;
 	border-radius: 10px;
 	transition: all 1s ease;
 }
 
-	.btn-default:hover {
-		border: 3px solid #AB82FF;
+	.btn-default:hover > .carousel-btn-text {
+		border: 3px solid #c0504d;
 		background-color: #F4F4F4;
-		opacity: 0.8;
 	}
 
 .carousel-btn-text {
 	padding: 15px;
 	margin: 0;
-	color: #AB82FF;
+	color: #c0504d;
 	transition: all 0.75s ease;
 }
 
 	.carousel-btn-text:hover {
 		padding: 15px;
 		margin: 0;
-		color: #AB82FF;
+		color: #c0504d;
 	}
 
 
@@ -236,7 +230,7 @@ Main/Index page
 	}
 
 
-/****************************************** 
+/******************************************
 About Me
 *******************************************/
 .about-me-main {
@@ -260,10 +254,14 @@ About Me
 	border-radius: 50px;
 
 	/*borders around image:*/
-   	padding: 2px;
-   	border: 1px solid #AAAAAA;
-   	background-color: clouds;
+	padding: 2px;
+	border: 1px solid #AAAAAA;
+	background-color: clouds;
 
+}
+
+#experience {
+	text-align: right;
 }
 
 .well {
@@ -272,19 +270,23 @@ About Me
 	border-radius: 25px;
 }
 
+ .company {
+ 	color: #c0504d;
+ }
+
 .job-title, .text-muted {
-	color: #006699;
+	color: #404040;
 }
 
 .job-dates {
-	color: #9FB6CD;
+	color: #aaa;
 }
 
 .fontchange-p {
 	font-family: 'Special Elite', helvetica, sans-serif;
 }
 
-/****************************************** 
+/******************************************
 Work
 *******************************************/
 .jumbotron {
@@ -307,6 +309,7 @@ Work
 .featurette-heading {
 	margin-bottom: 10px;
 	margin-top: 0;
+	color: #c0504d;
 }
 
 .shmap-links {
@@ -338,66 +341,66 @@ Work
 }
 
 /* This pushes down the web development section anchor so it isn't obscured under the nav bar */
-section:before  { 
-  display: block; 
-  content: " "; 
-  margin-top: -60px; 
-  height: 60px; 
-  visibility: hidden; 
+section:before {
+	display: block;
+	content: " ";
+	margin-top: -60px;
+	height: 60px;
+	visibility: hidden;
 }
 
 
 /*web dev images*/
 .img-web-dev {
 	width: 200px;
-	border: 1px dotted #AB82FF;
+	border: 1px dotted #c0504d;
 }
 
 ul.img-list {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
 }
 
 ul.img-list li {
-  display: inline-block;
-  height: 200px;
-  margin: 0 1em 1em 0;
-  position: relative;
-  width: 200px;
+	display: inline-block;
+	height: 200px;
+	margin: 0 1em 1em 0;
+	position: relative;
+	width: 200px;
 }
 
 span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 200px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 200px;
-  opacity: 0;
-  -webkit-transition: opacity 500ms;
-  -moz-transition: opacity 500ms;
-  -o-transition: opacity 500ms;
-  transition: opacity 500ms;  
+	background: rgba(0,0,0,0.5);
+	color: white;
+	cursor: pointer;
+	display: table;
+	height: 200px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 200px;
+	opacity: 0;
+	-webkit-transition: opacity 500ms;
+	-moz-transition: opacity 500ms;
+	-o-transition: opacity 500ms;
+	transition: opacity 500ms;
 }
 
 ul.img-list li:hover span.text-content {
-  opacity: 1;
+	opacity: 1;
 }
 
 span.text-content span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-  padding-left: 5px;
-  padding-right: 5px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
-/****************************************** 
+/******************************************
 Interests
 *******************************************/
 .jumbotron-interests {
@@ -412,15 +415,15 @@ Interests
 	margin: 0 auto;
 	max-width: 100%;
 	-webkit-box-shadow: 0 8px 6px -6px black;
-	   -moz-box-shadow: 0 8px 6px -6px black;
-	        box-shadow: 0 8px 6px -6px black;
+		-moz-box-shadow: 0 8px 6px -6px black;
+			box-shadow: 0 8px 6px -6px black;
 }
 
 .img-small {
 	max-width: 100%;
 	-webkit-box-shadow: 0 8px 6px -6px black;
 		-moz-box-shadow: 0 8px 6px -6px black;
-	        box-shadow: 0 8px 6px -6px black;
+			box-shadow: 0 8px 6px -6px black;
 }
 
 .img-screenshot {
@@ -462,7 +465,7 @@ li {
 	}
 
 
-/****************************************** 
+/******************************************
 Contact Form
 *******************************************/
 #contact-section {
@@ -509,11 +512,11 @@ div.alert.alert-success {
 	margin-top: 50px;
 	width: 100%;
 	-webkit-box-shadow: 0 8px 6px -6px black;
-	   -moz-box-shadow: 0 8px 6px -6px black;
-	        box-shadow: 0 8px 6px -6px black;
+		-moz-box-shadow: 0 8px 6px -6px black;
+			box-shadow: 0 8px 6px -6px black;
 }
 
-/****************************************** 
+/******************************************
 Footer
 *******************************************/
 
@@ -532,7 +535,7 @@ hr.style-eight {
     padding: 0;
     border: none;
     border-top: medium double #333;
-    color: #AB82FF;
+    color: #c0504d;
     text-align: center;
 }
 hr.style-eight:after {
@@ -628,7 +631,7 @@ hr.style-eight:after {
 
 @media all and (min-width:995px) {
 	.navbar-nav li {
-		font-size: 1em; 
+		font-size: 1em;
 	}
 	.navbar-collapse {
 	float: right;
