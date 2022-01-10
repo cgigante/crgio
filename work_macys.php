@@ -12,7 +12,7 @@
 			include ("_header.php")
 		?>
 
-		<title>Work Example: Macy's | crg.io</title>
+		<title>Work Sample: Macy's | crg.io</title>
 		<meta name="description" content="View work samples from a mobile project for Macy's that Charlie worked on." />
 		<meta name="keywords" content="mobile, content, mobile app, new york city, producer, marketing, project manager, resume, Macys, Macy's, photos, in8 id, in8 mobile">
 
@@ -48,7 +48,7 @@
 		<?php include_once("_facebook.php") ?>
 
 		<!-- Navigation code -->
-		<?php include_once("_navigation.php") ?>
+		<?php include_once("_navigation_in8.php") ?>
 			
 
 		<!-- Wrap the rest of the page in another container to center all the content. -->
@@ -68,7 +68,7 @@
 					<img class="featurette-image img-responsive" src="images/work/macys/2.jpg" /></br>
 					<img class="featurette-image img-responsive" src="images/work/macys/3.jpg" /></br>
 					<img class="featurette-image img-responsive" src="images/work/macys/4.jpg" /></br>
-					<a class="btn btn-success" href="index.php#work" role="button">Go Back</a>
+					<a class="btn btn-success" href="in8.php" role="button">Go Back</a>
 				</div><!-- End col-md-12 -->
 
 			</div>

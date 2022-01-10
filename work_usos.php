@@ -12,7 +12,7 @@
         include ("_header.php")
     ?>
 
-        <title>Work Example: IMG's US open of Surfing | crg.io</title>
+        <title>Work Sample: US Open of Surfing | crg.io</title>
         <!-- Image Gallery -->
         <link rel="stylesheet" href="http://blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
         <link rel="stylesheet" href="css/bootstrap-image-gallery.css">
@@ -30,7 +30,7 @@
         <?php include_once("_facebook.php") ?>
 
         <!-- Navigation code -->
-        <?php include_once("_navigation.php") ?>
+        <?php include_once("_navigation_in8.php") ?>
         <!-- Wrap the rest of the page in another container to center all the content. -->
         <div class="container marketing">
         <!-- Main Content -->
@@ -41,6 +41,7 @@
         <div class="row featurette">
             <div class="col-md-12">
                 <h2 class="featurette-heading">in8 iD:<span class="text-muted"> US Open of Surfing Campaign</span></h2>
+                <p>In conjunction with IMG, I conceptualized and executed an on-site image activation campaign supporting at the US Open of Surfing in Huntington Beach, CA (August 2012). wAssorted banners (see below) were placed all over the Open grounds. Prior to the event, I ingested these banner images into our CMS and programmed a series of image activation experiences around them. These experiences included a series of daily sweepstakes where prizes such as autographed surf &amp; skate memorabilia were awarded on site to winners. The call-to-action printed on the banners (plus PA announcements and Jumbotron promo videos) prompted attendees to engage with our campaigns.</p>
                 <p>Below are a selection of several images and screenshots from the US Open of Surfing Campaign I programmed.</p>
                 <hr>
                 </br>
@@ -106,7 +107,7 @@
                 </div>
                 </br>
                 </br>
-                <a class="btn btn-success" href="index.php#work" role="button">Go Back</a>
+                <a class="btn btn-success" href="in8.php" role="button">Go Back</a>
 
             </div><!-- End col-md-12 -->
         </div>

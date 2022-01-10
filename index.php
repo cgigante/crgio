@@ -10,12 +10,20 @@
             include ("_header.php")
         ?>
 
-        <title>crg.io | Mobile &amp; Web Technology Professional</title>
-        <meta name="description" content="Charlie is a digital media professional specializing in Mobile Apps, Web Development, Project &amp; Content Management, Digital Marketing, Social Media, Music and more." />
-        <meta name="keywords" content="mobile, content, mobile apps, producer, Isabel and Charles Inc, social media, project manager, resume, freelance, product manager, product development, UI, UX">
-        <!-- this is the full-slider CSS for the home page -->
+        <title>Charlie Gigante | Product Management Professional</title>
+        <meta name="description" content="Charlie is a Product Management Professional specializing in SAAS, Mobile Apps, Web Development, Project &amp; Content Management, Digital Marketing, Social Media, Music and more." />
+        <meta name="keywords" content="product, web, mobile, mobile apps, web apps, ecommerce, producer, product manager, resume, product development, Los Angeles tech, LA tech, silicon beach">
+
+<!-- Begin: Google Font "Special Elite" -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+<!-- End: Google Font "Special Elite" -->
+
+<!-- this is the full-slider CSS for the home page -->
         <link href="css/full-slider.css" rel="stylesheet">
-        <!-- Google Analytics Code -->
+<!-- Google Analytics Code -->
+
         <?php include_once("analyticstracking.php") ?>
     </head>
 
@@ -45,7 +53,7 @@
                         <a href="#about">
                             <!-- <h1>Who I Am</h1> -->
                             <button class="btn btn-default btn-lg" type="button" aria-haspopup="true" aria-expanded="false">
-                                <h3 class="carousel-btn-text">About Me</h3>
+                                <h3 class="carousel-btn-text">About Charlie</h3>
                             </button>
                             <!-- <p class="fontchange-p">Mobile industry veteran, web developer, musician, DJ and photographer.</p> -->
                         </a>
@@ -108,11 +116,28 @@
 
         <hr class="featurette-divider">
 
+        <!-- Charities -->
+        <div id="charities-section">
+            <?php include_once("_charities.php") ?>
+        </div>
+
+        <hr class="featurette-divider">
+
         <!-- Contact code -->
         <div id="contact-section">
             <?php include_once("_contact.php") ?>
         </div>
-        <div id="clear"></div>
+
+
+        <!-- Vote code -->
+        <!--
+        <div id="vote-section">
+            <?php
+            # include_once("_vote.php")
+            ?>
+        </div>
+        -->
+
 
         <!-- FOOTER -->
         <?php

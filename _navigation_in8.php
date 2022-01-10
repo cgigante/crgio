@@ -13,12 +13,12 @@
 
         <div class="collapse navbar-collapse" id="crgNav">
           <ul class="nav navbar-nav" role="tablist">
-            <!-- <li><a href="#myCarousel">Home</a></li> -->
-            <li><a href="#about">About</a></li>
-            <li><a href="#work">Work</a></li>
-            <li><a href="#interests">Interests</a></li>
-            <li><a href="#charities-section">Charity</a></li>
-            <li><a href="#contact-section">Contact</a></li>
+            <!-- <li><a href="index.php#myCarousel">Home</a></li> -->
+            <li><a href="index.php#about">About</a></li>
+            <li><a href="index.php#work">Work</a></li>
+            <li><a href="index.php#interests">Interests</a></li>
+            <li><a href="index.php#charities-section">Charity</a></li>
+            <li><a href="index.php#contact-section">Contact</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resume <span class="caret"></span></a>
               <ul class="dropdown-menu">
