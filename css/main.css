@@ -218,6 +218,10 @@ Carousel
 Main/Index page
 *******************************************/
 
+.featurette-divider {
+	margin: 100px 0 25px 0;
+}
+
 
 .featurette-main1, .featurette-main2, .featurette-main3 {
 	background-color: clouds;
@@ -243,6 +247,14 @@ Main/Index page
 		opacity: 0.7;
 	}
 
+/******************************************
+Padding on top of each main section
+This prevents the section headers from
+being hidden under the nav bar.
+*******************************************/
+#work, #interests, #charities-section, #contact-section {
+	padding-top: 75px;
+}
 
 /******************************************
 About Me
@@ -259,24 +271,30 @@ About Me
 	font-size: 1.25em;
 }
 
-/* This is the square "About" image */
+/* This is the "About" image */
 #profile-pic {
+	max-width: 150px;
+	border-radius: 50px;
+	display: block;
+	margin: 0 auto;
+	/*borders arounpadding: 2px;
+	border: 1px solid #AAAAAA;
+	background-color: clouds;d image:*/
+	/**/
+}
+
+/*#about-me-pic {
 	float: left;
-	max-width: 250px;
+	max-width: 300px;
+	border-radius: 20px;
 	margin-right: 20px;
 	margin-bottom: 10px;
 	border-radius: 50px;
+}*/
 
-	/*borders around image:*/
-	padding: 2px;
-	border: 1px solid #AAAAAA;
-	background-color: clouds;
-
-}
-
-#experience {
+/*#experience {
 	text-align: right;
-}
+}*/
 
 .well {
 	background-color: #F4F4F4;
@@ -303,6 +321,25 @@ About Me
 /******************************************
 Work
 *******************************************/
+
+.img-work-logo { /* these are the main LOGO images on the work page */
+		clear: both;
+		display:block;
+		margin-top: 25px;
+		/*margin-bottom: 25px;*/
+		max-width: 60%;
+}
+
+.img-work { /* these are the main (non logo) images on the work page */
+		clear: both;
+		display:block;
+		margin: 0 auto;
+		margin-top: 25px;
+		/*margin-bottom: 25px;*/
+		max-width: 75%;
+}
+
+
 .jumbotron {
 	background-color: transparent;
 	padding-top: 0;
@@ -321,9 +358,14 @@ Work
 }
 
 .featurette-heading {
-	margin-bottom: 10px;
-	margin-top: 0;
-	color: #c0504d;
+	/*margin-bottom: 10px;*/
+	/*color: #c0504d;*/
+}
+
+.featurette-heading-custom {
+	margin-bottom: 50px;
+	font-size: 3em;
+	/*color: #c0504d;*/
 }
 
 .shmap-links {
@@ -333,7 +375,6 @@ Work
 
 .app-badge {
 	max-width: 150px;
-	margin: 0 auto;
 }
 	.app-badge:hover {
 		opacity: 0.7;
@@ -368,13 +409,14 @@ section:before {
 .img-web-dev {
 	width: 200px;
 	border: 1px dotted #c0504d;
+	float: left;
 }
 
 ul.img-list {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	text-align: center;
+	/*text-align: center;*/
 }
 
 ul.img-list li {
@@ -565,6 +607,7 @@ hr.style-eight:after {
 .socialButtons { /* This is the DIV which contains the social buttons */
 	width: 100%;
 	text-align: center;
+	padding-top: 50px;
 }
 
 	.fb-div, .followTwitter {
@@ -580,16 +623,14 @@ hr.style-eight:after {
 
 
 
-/* The following media queries are to ensure the Bootstrap carousel text is responsive. (it previously was not) */
+/* Media Queries*/
+
 @media all and (max-width:400px) {
 	#myCarousel h1 {
 		font-size: 2em;
 	}
 	#myCarousel p {
 		font-size: 1em;
-	}
-	.soundcloud {
-		height: 200px;
 	}
 	#profile-pic {
 		float: left;
@@ -610,9 +651,6 @@ hr.style-eight:after {
 	.navbar-collapse {
 	float: left;
 	}
-	.soundcloud {
-	height: 300px;
-	}
 }
 
 @media all and (min-width:600px) {
@@ -622,35 +660,30 @@ hr.style-eight:after {
 	#myCarousel p {
 		font-size: 1.5em;
 	}
-	.img-work { /* these are the main images on the work page (like will.i.am) */
-		max-width: 500px;
-		margin: 0 auto;
-	}
-
 	.navbar-nav li {
 		font-size: .8em; /* This ensures that when the browser width is narrowed, the nav links will shrink so they don't fall beneath the brand logo */
 	}
-	.soundcloud {
-	height: 550px;
-	}
 }
 
-@media all and (max-width:769px) {
+@media all and (max-width:768px) {
 	.navbar-collapse {
 		width: 100%;
 	}
+	.img-work .img-work-logo {
+		margin-bottom: 25px;
+	}
 }
 
 
-
-@media all and (min-width:995px) {
+/*@media all and (min-width:995px) {
 	.navbar-nav li {
 		font-size: 1em;
 	}
 	.navbar-collapse {
-	float: right;
+		float: right;
 	}
-	.soundcloud {
-	height: 550px;
 	}
-}
+	.container {
+		width: 80%;
+	}
+}*/
