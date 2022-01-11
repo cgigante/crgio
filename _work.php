@@ -71,14 +71,20 @@
 <!-- begin Section: Ideally -->
         <section id="ideally" class="row featurette">
 			<div class="col-sm-6"><!-- Begin col-sm-6 -->
-                <div style="clear: both;">
-                   <img class="img-responsive img-work-logo" src="images/work/shmaplogo.png" alt="Shmap Mobile Messaging App logo">
+                <div>
+                   <!-- Shmap Image -->
+                   <a href="https://shmap.crg.io" target="_blank"><img class="img-responsive img-work-logo" src="images/work/shmaplogo.png" alt="Shmap Mobile Messaging App logo"></a>
                 </div>
             </div><!-- End col-sm-6 -->
             <div class="col-sm-6"><!-- Begin col-sm-6 -->
 	            <!-- <h2 class="featurette-heading"><a href="http://www.ideally.net" target="_blank">Ideally, LLC</a> | Shmap</h2> -->
 	            <h3 class="featurette-heading"><span class="text-muted">Product Owner of a location-based mobile messaging app</span></h3>
-	            <p>Co-founder of <strong><a href="http://www.ideally.net" target="_blank">Ideally, LLC</a></strong> and product manager of <strong><em>Shmap</em></strong> - a next-generation mobile messaging application that harnesses GPS technology to put <em>location</em> at the center of the social messaging experience. Responsibilities included product requirements documentation and user stories, product roadmap, user documentation, web development, business strategy, UI/UX, design, social media marketing and more. Tools used included Jira, Slack, Cloudforge and more.</p>
+	            <p>Co-founder of <strong><a href="http://www.ideally.net" target="_blank">Ideally, LLC</a></strong> and product manager of <strong><a href="https://shmap.crg.io" target="_blank">Shmap</a></em></strong> - a next-generation mobile messaging application that harnesses GPS technology to put <em>location</em> at the center of the social messaging experience. Responsibilities included product requirements documentation and user stories, product roadmap, user documentation, web development, business strategy, UI/UX, design, social media marketing and more. Tools used included Jira, Slack, Cloudforge and more.</p>
+                <br>
+                <!-- Shmap Video -->
+                <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/175757213?h=f368ddfa9c&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+                <br>
+                <p><em>promo video &amp; original music by me</em></p>
                 <!-- <br>
                 <h4 style="text-align: center;"><strong>Website: </strong><a href="http://www.ideally.net" target="_blank">ideally.net</a></h4> -->
             </div><!-- End col-sm-6 -->
@@ -89,39 +95,14 @@
         <div class="divided-80"></div>
 
 <!-- begin Section: Documentation and Development -->
-<center><h2 class="featurette-heading-custom"><i class="fas fa-code"></i> Documentation &amp; Development</h2></center>
-
-        <section id="documentation webDev" class="row featurette">
-			<div class="col-sm-6"><!-- Begin col-sm-6 -->
-	            <!-- <h2 class="featurette-heading">User Documentation</h2> -->
-	            <h3 class="featurette-heading"><span class="text-muted">B2B and B2C documentation samples</span></h3>
-	            <p>Click the images for samples of user documentation I composed, designed and coded for the Ideally CMS (B2B) and the Shmap mobile messaging application (B2C).</p>
-                <br>
-                <ul class="img-list">
-                    <li>
-                        <a href="http://www.cms.crg.io/" target="_blank">
-                            <img class="img-responsive img-web-dev" src="images/work/ideallycms.png"/>
-                            <span class="text-content"><span>Content Management System Documentation</span></span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.infoshmap.crg.io/" target="_blank">
-                            <img class="img-responsive img-web-dev" src="images/work/shmaptutorial.png"/>
-                            <span class="text-content">
-                                <span>Shmap Mobile App Documentation and Tutorial</span>
-                            </span>
-                        </a>
-                    </li>
-                </ul>
-            </div><!-- End col-sm-6 -->
-<!-- End Section: Documentation -->
+<center><h2 class="featurette-heading-custom"><i class="fas fa-code"></i> Development, Design &amp; Documentation</h2></center>
 
 
 <!-- Begin Web Development -->
             <div class="col-sm-6"><!-- Begin col-sm-6 -->
                 <!-- <h2 class="featurette-heading">Web Development</h2> -->
-                <h3 class="featurette-heading"><span class="text-muted">HTML5, CSS3, PHP, MySQL, JavaScript, etc.</span></h3>
-                <p>I have a solid foundation in a variety of languages and earned a <em>Certificate in Web Development</em> from <strong>New York University</strong>. I've built this site you're currently visiting, along with several others for both previous employers and as a freelance developer for 3rd party clients. Pay me a visit on <a href="https://github.com/cgigante" target="_blank">GitHub</a> to review my code.</p>
+                <h3 class="featurette-heading"><span class="text-muted">Web Development &amp; Design</span></h3>
+                <p>I have a solid foundation in HTML, CSS, PHP, MySQL, and JavaScript and have earned a <em>Certificate in Web Development</em> from <strong>New York University</strong>. I've built this site you're currently visiting, along with several others for both previous employers and as a freelance developer for 3rd party clients.</p>
                 <br>
                 <ul class="img-list">
                     <li>
@@ -131,12 +112,12 @@
                         </a>
                     </li>
 
-                    <!-- <li>
-                        <a href="http://shmap.me/" target="_blank">
+                    <li>
+                        <a href="https://shmap.crg.io/" target="_blank">
                             <img class="img-responsive img-web-dev" src="images/work/webdev/shmap.jpg"/>
                             <span class="text-content"><span>shmap.me<br><br>I built this site to support my mobile application, Shmap.</span></span>
                         </a>
-                    </li> -->
+                    </li>
                     <!-- <li>
                         <a href="http://ideally.net/" target="_blank">
                             <img class="img-responsive img-web-dev" src="images/work/webdev/ideally.jpg"/>
@@ -145,20 +126,48 @@
                             </span>
                         </a>
                     </li> -->
-                    <li>
+                    <!-- <li>
                         <a href="https://github.com/cgigante" target="_blank">
                             <img style="border: none;" class="img-responsive img-web-dev" src="images/work/webdev/github.png"/>
                             <span class="text-content">
                                 <span>Pay me a visit on GitHub to review my code!</span>
                             </span>
                         </a>
-                    </li>
+                    </li> -->
                 </ul>
 
 
 			
         	</div><!-- End col-sm-6 -->
 <!-- End Web Development -->
+<!-- Begin Section: Documentation -->
+        <section id="documentation webDev" class="row featurette">
+            <div class="col-sm-6"><!-- Begin col-sm-6 -->
+                <!-- <h2 class="featurette-heading">User Documentation</h2> -->
+                <h3 class="featurette-heading"><span class="text-muted">Product Documentation</span></h3>
+                <p>As a Product leader, I acutely understand the value of clear, comprehensive documentation for businesses and consumers. Whether reducing support calls or reinforcing product value, proper documentation is crucial to the success of all products.</p>
+                <br>
+                <ul class="img-list">
+                    <li>
+                        <a href="https://cms.crg.io/" target="_blank">
+                            <img class="img-responsive img-web-dev" src="images/work/ideallycms.png"/>
+                            <span class="text-content"><span>B2B Documentation Example</span></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://infoshmap.crg.io/" target="_blank">
+                            <img class="img-responsive img-web-dev" src="images/work/shmaptutorial.png"/>
+                            <span class="text-content">
+                                <span>B2C Documentation Example</span>
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div><!-- End col-sm-6 -->
+<!-- End Section: Documentation -->
+
+
+
         </section>
 <!-- End Documentation and Development -->
 
@@ -175,12 +184,11 @@
                     </div>
                 </div><!-- End col-sm-6 -->
                 <div class="col-sm-6">
-                    <h3 class="featurette-heading"><span class="text-muted">Mobile Content Programming: Multi-Modal Recognition Apps</span></h3>
+                    <h3 class="featurette-heading"><span class="text-muted">Growth and Engagement for Multi-Modal Recognition Apps</span></h3>
                     <p>At <strong>in8 iD</strong> I managed the concepts, creative design, implementation and roadmap for all content and marketing within <em></em>in8 Mobile</em>'s two mobile applications: <strong><em>iD Browser</em></strong> and <strong><em>Verizon iD</em></strong>. These multi-modal recognition applications utilized both audio recognition technology (to identify recorded music and sounds), and image recognition technology (allowing users to snap photos of printed media, triggering experiences in the app such as augmented reality, videos, information, scavenger hunts, and more.)</p>
                     <p>Browse through select projects below for examples of my work which focused on building user engagement through in-app campaigns and experiential marketing programs.</p>
                     <br>
                     <h4 style="text-align: center;"><a href="https://www.crunchbase.com/organization/in8-mobile" target="_blank">in8 Mobile</a> | <a href="https://www.crunchbase.com/organization/nantworks" target="_blank">Nantworks</a></h4>
-                    <br>
                     <a href="https://crg.io/in8.php" target="_blank"><h4 style="text-align: center;"><i class="fas fa-award"></i> Notable in8 Mobile Projects</h4></a>
                 </div><!-- End col-sm-6 -->
             </section>
